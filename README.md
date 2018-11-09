@@ -1,4 +1,4 @@
-# d3test
+# d3 Mapping Lab
 Repository to assist with learning D3.
 
 Focus is on mapping/GIS with D3
